@@ -76,7 +76,7 @@
     </td>
     <td align="center">
       <strong>Email</strong><br>
-      seasonmarie45@gmail.com
+      brightsparks.dev@protonmail.com
     </td>
     <td align="center">
       <strong>LinkedIn</strong><br>
