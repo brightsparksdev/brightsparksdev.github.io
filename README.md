@@ -25,8 +25,8 @@
   <tr>
     <td>
       <strong>Tools</strong><br>
-      Oracle JDE E1, Orchestration Studio, Power Automate, SharePoint Online, 
-      Seagull Bartender, Perceptive Content, ServicePro
+      Oracle JDE E1, Orchestration Studio, Toad Data Point, Toad for Oracle, Power Automate, 
+      SharePoint Online, Seagull Bartender, Perceptive Content, ServicePro
     </td>
     <td>
       <strong>Systems Administration</strong><br>
