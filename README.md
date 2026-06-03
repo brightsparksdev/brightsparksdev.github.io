@@ -84,7 +84,7 @@
     </td>
     <td align="center">
       <strong>Resume</strong><br>
-      <a href="https://brightsparksdev.github.io/SeasonSparksDevResume.pdf">Download PDF</a>
+      <a href="https://brightsparksdev.github.io/SSparksDevResume">Download PDF</a>
     </td>
   </tr>
 </table>
