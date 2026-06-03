@@ -80,7 +80,7 @@
     </td>
     <td align="center">
       <strong>LinkedIn</strong><br>
-      <a href="https://www.linkedin.com/in/seasonsparks/">linkedin.com/in/seasonsparks</a>
+      <a href="www.linkedin.com/in/brightsparksdev">LinkedIn</a>
     </td>
     <td align="center">
       <strong>Resume</strong><br>
